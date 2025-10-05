@@ -1,6 +1,6 @@
 # Pranay---koli---hacker
 Personal portfolio - pranay koli (pranay_koli) _cyber security specialist &amp; ethical hacker. 
-- Certified Ethical Hacker with X years experience
+- Certified Ethical Hacker with 1 years experience
 - Specialized in Penetration Testing, Vulnerability Assessment
 - Bug Bounty Hunter | Network Security | Digital Forensics
 - Passionate about identifying and fixing security vulnerabilities
